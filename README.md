@@ -1,13 +1,1 @@
-Row with the Highest Number of Parked Cars:
-
-This Python project calculates the row with the highest number of parked cars in a given parking lot. The parking lot is represented as a 2D matrix (list of lists), where each cell contains the number of cars parked in that particular spot. The user inputs the dimensions of the matrix and the number of cars in each spot, and the program identifies the row with the highest sum of parked cars.
-
-Features
-Prompts the user to input the number of rows and columns.
-Prompts the user to input the number of cars parked in each spot.
-Converts the input into a 2D NumPy array.
-Calculates the sum of cars for each row.
-Identifies and displays the row with the highest number of parked cars.
-Requirements
-Python 3.x
-NumPy library
+I am an accomplished IT professional with a diverse skill set and extensive experience in cloud infrastructure, programming, network configuration, and web development. My expertise includes managing and optimizing VMware Cloud Infrastructure, developing applications in Python, C++, and C, and working with various web technologies. I am proficient in AWS and Node.js, and have a strong understanding of network configuration and the OSI Layer Model. I am dedicated to leveraging my skills to deliver innovative solutions and drive technological advancements.
